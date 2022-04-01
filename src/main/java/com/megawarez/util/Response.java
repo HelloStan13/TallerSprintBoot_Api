@@ -1,6 +1,4 @@
 package com.megawarez.util;
-
-
 /**
  * Utils class to manage response in the controller
  *
